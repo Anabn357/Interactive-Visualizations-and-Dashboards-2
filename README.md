@@ -65,6 +65,8 @@ Deploy your app to a free static page hosting service, such as GitHub Pages or H
 
 Here is a [guide](Heroku_Deployment_Guide.md) to deploying your app Heroku. 
 
+
+
 ## Hints
 
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
