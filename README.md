@@ -61,3 +61,5 @@ The following task is advanced and therefore optional.
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages or Heroku. Submit the links to your deployment and your GitHub repo.
+
+Here is a [guide](Heroku_Deployment_Guide.md) to deploying your app Heroku. 
